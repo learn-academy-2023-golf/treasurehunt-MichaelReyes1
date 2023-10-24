@@ -47,8 +47,8 @@ As a developer, you are tasked with creating a treasure hunt game. The user will
 
 As a developer, you are tasked with creating a treasure hunt game. The user will see a game board on the page and be able to select various squares on the board. Hidden behind one square is a treasure that will win the game, and hidden behind another square is a bomb that will lose the game. All other squares will reveal a neutral image. The user will be given a particular number of clicks to find the treasure that will win the game.
 
-### 📚 User Stories
-
+### 📚 User Stories 
+Branch: grid
 - As a user, I can see a page with a three by three grid board game with a question mark in each square.
 - As a user, when I click on one of the question marks, an alert appears with the index position of that question mark in the array.
 - As a user, when I click on one of the question marks, a tree emoji appears instead of the alert.
